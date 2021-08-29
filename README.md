@@ -11,8 +11,11 @@ https://github.com/Hareeshmaharee/AttendanceChecker-TinkerBell/blob/master/Atten
 
   
 ## Team Members
+
 Hareeshma K M [https://github.com/Hareeshmaharee]
+
 Lekshmi A M [https://github.com/Lekshmi2000]
+
 Neevea Manoj[https://github.com/Neevea8880]
   
 ## Tech Stack
