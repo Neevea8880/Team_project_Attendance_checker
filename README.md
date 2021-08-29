@@ -2,30 +2,31 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+Reading the participants list Printing the absentees list of A batch, B batch Printing the list of unknown participants
 
 
 ## Demo + Video
 
-Insert gif or link to demo, or video
-[link to video]
+https://github.com/Hareeshmaharee/AttendanceChecker-TinkerBell/blob/master/Attendance%20Checker.mp4
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
-Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
-
+Hareeshma K M [https://github.com/Hareeshmaharee]
+Lekshmi A M [https://github.com/Lekshmi2000]
+Neevea Manoj[https://github.com/Neevea8880]
   
 ## Tech Stack
 
-Eg: Flutter, Python, Html, CSS, JavaScript
+Python
 
   
 ## Working of the project
 
-1. Explaining the working of project
-2. Embed video of project demo
+Retrieving data from Sqlite database
+Getting input values
+Preparing and writing list of absentees to separate text files
+Printing and writing list of unknown participats to text file
+Displaying total number of absentees
 
   
 ## Features
@@ -53,6 +54,9 @@ and fill the Instructions for running it :)
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Absentees of A batch : https://github.com/Hareeshmaharee/AttendanceChecker-TinkerBell/blob/master/Attendance%20checker%20abatch%20absentees.png
 
+Absentees of B batch : https://github.com/Hareeshmaharee/AttendanceChecker-TinkerBell/blob/master/Attendance%20Checker%20Bbatch%20Absentees.png
+
+Terminal output and unknown list : https://github.com/Hareeshmaharee/AttendanceChecker-TinkerBell/blob/master/Attendance%20Checker%20output.png
   
