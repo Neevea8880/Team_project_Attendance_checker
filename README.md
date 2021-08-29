@@ -2,7 +2,9 @@
 
 # Project Title
 
-Reading the participants list Printing the absentees list of A batch, B batch Printing the list of unknown participants
+Reading the participants list 
+Printing the absentees list of A batch, B batch 
+Printing the list of unknown participants
 
 
 ## Demo + Video
@@ -26,9 +28,13 @@ Python
 ## Working of the project
 
 Retrieving data from Sqlite database
+
 Getting input values
+
 Preparing and writing list of absentees to separate text files
+
 Printing and writing list of unknown participats to text file
+
 Displaying total number of absentees
 
   
